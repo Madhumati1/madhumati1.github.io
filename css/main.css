@@ -1,0 +1,52 @@
+body {
+    background-color: lightcyan;
+    background-image: url(../img/Paper.png);
+   
+}
+
+.bg-primary-main{
+    background-color: aqua;
+}
+
+.phone
+{
+    width: 15;
+    height: 15;
+}
+.nav-item{
+    display: block;
+}
+.navbar-collapse{
+    font-display: auto;
+}
+
+.contact-label{
+    color:#bd5d38 !important;
+}
+
+.contact-content{
+    color:#343a40 !important;
+}
+
+.lowercase{
+    text-transform: lowercase !important;
+}
+
+.list-skills{
+    cursor: pointer;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid grey;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.proj-img{
+    height: 100%;
+    width: 100%;
+    border: 2px solid;
+}
